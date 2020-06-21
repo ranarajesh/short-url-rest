@@ -1,0 +1,6 @@
+POST  http://localhost:3005/v1/api/shortener 
+Content-Type: application/json
+
+{
+  "longUrl": "https://zerotomastery.io/community/?utm_source=udemy&utm_medium=coursecontent"
+}
